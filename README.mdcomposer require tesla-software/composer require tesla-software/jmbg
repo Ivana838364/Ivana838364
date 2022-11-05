@@ -1,0 +1,5 @@
+use Tesla\JMBG\JMBG;
+
+// Check if JMBG is valid
+JMBG::for
+
